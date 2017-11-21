@@ -1,3 +1,5 @@
+Creates a CodeMirror widget that can be added to a page/form.
+
 settings.py:
 ```python
 INSTALLED_APPS = (
